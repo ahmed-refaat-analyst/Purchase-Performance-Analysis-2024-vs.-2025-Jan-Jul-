@@ -8,22 +8,21 @@
 
 ---
 
-## 📊 Project Overview
-This Power BI report analyzes purchasing data from March to September 2025.  
-It provides insights into suppliers’ performance, purchasing trends, financial breakdowns, and comparisons between months.
+## 📘 Project Summary
+This Excel-based analysis compares purchasing data from **January to July** for **2024 vs. 2025**.  
+The dataset contains **100K+ rows**, requiring extensive cleaning, validation, and restructuring prior to analysis.
 
-The analysis helps identify:
-- Top-performing suppliers  
-- Monthly purchase value variations  
-- Trends in product categories  
-- Budget vs. actual spending  
+## 🔎 Main Focus Areas
+- Comparison of total purchases between 2024 and 2025  
+- Supplier-level performance and identification of major cost drivers  
+- Year-over-year spending analysis to highlight procurement trends and efficiency  
+- Data cleaning, type validation, and dataset structuring
 
----
-
-## 🧠 Key Insights
-- 📈 Highest purchasing volume occurred in **June 2025**  
-- 💸 Major cost reductions achieved through supplier optimization  
-- 🕒 Lead times improved by **18%** compared to Q1  
+## 📈 Methods & Deliverables
+- Dynamic pivot tables and pivot charts.  
+- Interactive dashboard elements and slicers in Excel.  
+- Conditional formatting to highlight key values.  
+- Final visual report ready for sharing with stakeholders.
 
 ---
 
